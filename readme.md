@@ -7,3 +7,5 @@ Não instalei a extensão do Julia no computador, pois o intuito da criação do
 # mat.jl 
 Essa aula especificamente trata-se das Noções Lógica de Matemática 
 
+# mat1.jl 
+Aritmética com Números Naturais 
